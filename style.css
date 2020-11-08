@@ -1,0 +1,41 @@
+p{
+	color: #000000;
+}
+p{
+	font-style: 30px;
+}
+p{
+	font-family: verdana
+}
+h1{
+	color: #007a76;
+}
+h1{
+	text-align: center;
+}
+h1{
+	font-family: impact
+}
+h1{
+	text-decoration: underline;
+}
+
+h2{
+	color: #44b8b4;
+	text-decoration: underline;
+	font-family: impact
+}
+	
+body{
+	background-color: #f7f4e1
+}
+ul{
+	font-family: verdana
+}
+	
+.conteneur{
+	display: flex;
+}
+.conteneur2{
+	display: flex;
+}
